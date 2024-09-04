@@ -41,5 +41,5 @@ modules:
       - type: file
         path: winbox.sh
       - type: file
-        url: https://download.mikrotik.com/winbox/3.40/winbox64.exe
-        sha256: 91f7b0456619dbfc19940a85566c949ce3718321f32709886df5125c71f0b6b7
+        url: https://download.mikrotik.com/routeros/winbox/3.41/winbox64.exe
+        sha256: 8bc3ecf1f35952600ecb1a380c38c88e9d63c081a32204fd094d588230070bf6
